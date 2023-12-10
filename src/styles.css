@@ -16,7 +16,6 @@ body {
   overflow-x: hidden;
 }
 
-
 .breed-select {
   width: 250px;
   margin-top: 20px;
@@ -30,7 +29,6 @@ body {
   flex-direction: column;
   gap: 20px;
 }
-
 
 .text-container {
   display: flex;
